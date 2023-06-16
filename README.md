@@ -2,7 +2,7 @@
 
 ### Hi guys 👋
 
-- 🔭 I’m currently currently studying at Shaanxi Normal University
+- 🔭 I’m currently studying at Shaanxi Normal University
 - 📫 How to reach me: yusongchen2003@outlook.com
 
 ### Others
