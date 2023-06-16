@@ -1,4 +1,4 @@
-<a href="mailto:yusongchen2003@outlook.com"><img align="right" src="https://user-images.githubusercontent.com/7856674/145028516-3fe0020c-2bab-4bb9-b7bf-784433387614.png" height="420" /></a>
+<a href="mailto:yusongchen2003@outlook.com"><img align="right" src="https://github.com/ChenYusong01/ChenYusong01/blob/master/blob/338bb73358f945c4303a6a7fcc4fd63.jpg?raw=true" height="420" /></a>
 
 ### Hi guys 👋
 
