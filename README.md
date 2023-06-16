@@ -8,17 +8,11 @@
 
 ### Hi guys 👋
 
-- 🔭 I’m currently working on a BI department in Ant Group
-- 🌱 I’m focus on data visualization and data analysis
-- 📫 How to reach me: visiky@qq.com
-- 📚 zhihu(知乎)：https://www.zhihu.com/people/visiky
-- 🐦 yuque(语雀)：https://www.yuque.com/kasmine
+- 🔭 I’m currently currently studying at Shaanxi Normal University
+- 📫 How to reach me: yusongchen2003@outlook.com
 
 ### Others
 
-- 🤔 A [Job Model](https://www.yuque.com/afx/about/evgq1d) for data visualization Engineer
-- 😉 [visiky's resume](https://visiky.github.io/resume/?user=visiky), an online resume.
 
------
 
  <img src="https://bubkoo-server.vercel.app/365dots" height="196"/> (Power by [bubkoo](https://github.com/bubkoo))
